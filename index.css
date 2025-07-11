@@ -1,0 +1,42 @@
+div{
+    margin-top:164px;
+    width: 335px;
+    padding:16px 16px 16px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 8px 8px 20px 8px rgba(85,85,85,0.08);
+    border-radius: 5%;
+}
+button{
+    background-color:#F2EAFD;
+    color:#7C19EE;
+    border-radius: 20%;
+    border-style: none;
+    margin:16px;
+    width:70px;
+    font-size: 10px;
+    padding:1px;
+    margin-left:5px;
+
+}
+
+.title{
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-size:18px;
+  line-height: 10px;
+}
+
+.para{
+  font-family: "Sora", sans-serif;
+  font-optical-sizing: auto;
+  font-size:14px;
+  line-height: 20px;
+  width:285px;
+}
+.buttonstyle{
+    font-family: "Sora",sans-serif;
+}
+img{
+    border-radius: 5%;
+}
